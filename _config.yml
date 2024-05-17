@@ -1,4 +1,5 @@
 theme: minima
-title: Homepage
+title: Whitney Sloneker
+description: PhD Candidate
 plugins:
 - jekyll-remote-theme
