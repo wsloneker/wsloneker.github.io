@@ -1,5 +1,5 @@
-theme: minima
-title: Whitney Sloneker
-description: PhD Candidate
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: Whitney Sloneker
+description: PhD Candidate
