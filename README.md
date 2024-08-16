@@ -5,7 +5,7 @@ I am advised by Doctors [Ritambhara Singh](https://ritambharasingh.com/) and [Lo
 
 Email me at <whitney_sloneker@brown.edu>!
 
-[CV], [LinkedIn](www.linkedin.com/in/whitney-sloneker-62216b165), [GitHub](https://github.com/wsloneker)
+[CV](https://wsloneker.github.io/pdf/CV.pdf), [LinkedIn](www.linkedin.com/in/whitney-sloneker-62216b165), [GitHub](https://github.com/wsloneker)
 
 # Education
 Ph.D., Computational Biology | Brown | September 2022 - Current
@@ -13,3 +13,6 @@ Ph.D., Computational Biology | Brown | September 2022 - Current
 B.S., Information & Data Science | Caltech | August 2017 - June 2021
 
 # Publications
+
+
+# Conference Proceedings
