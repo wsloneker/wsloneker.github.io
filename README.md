@@ -11,6 +11,7 @@ Email me at <whitney_sloneker@brown.edu>!
 
 # Education
 Ph.D., Computational Biology | Brown | September 2022  -
+
 B.S., Information & Data Science | Caltech | August 2017 - June 2021
 
 # Publications
