@@ -7,6 +7,9 @@ Email me at <whitney_sloneker@brown.edu>!
 
 [CV](https://wsloneker.github.io/CV.pdf), [LinkedIn](www.linkedin.com/in/whitney-sloneker-62216b165), [GitHub](https://github.com/wsloneker)
 
+# Research Interests
+Computational Biology, Explainable Machine Learning
+
 # Education
 Ph.D., Computational Biology | Brown | September 2022 - Current
 # Publications
