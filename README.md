@@ -22,9 +22,11 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 Mae Williamson Simmons Diversity Fellowship, Brown, 10000, 09/01/2022- 05/25/2025
 
 # Professional Development
-Writing Center, Brown University
-09/28/2022 - 08/02/2023
+## Reflective Teaching Seminar/Sheridan Teaching Seminar 
+Certificate Obtained 12/29/2022
+
+## Writing Center, Brown University (09/28/2022 - 08/02/2023)
 Aided 1-3 students per week in various writing tasks including generating ideas, outlining, and revising for clarity.
 
-Reflective Teaching Seminar/Sheridan Teaching Seminar 
-Certificate Obtained 12/29/2022
+## Teaching Assistant (Fall 2023)
+BIOL 1575: Evaluation of Health Information Systems
