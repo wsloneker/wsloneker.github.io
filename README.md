@@ -19,7 +19,8 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Conference Proceedings
 
 # Fellowships & Awards
-Mae Williamson Simmons Diversity Fellowship, Brown, 10000, 09/01/2022- 05/25/2025
+## Mae Williamson Simmons Diversity Fellowship (09/01/2022 - 05/25/2025)
+Brown, $10000
 
 # Professional Development
 ## Reflective Teaching Seminar/Sheridan Teaching Seminar 
