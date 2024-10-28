@@ -9,9 +9,10 @@ Email me at <whitney_sloneker@brown.edu>!
 
 # Research Interests
 Computational Biology, Explainable Machine Learning
-
 # Education
 Ph.D., Computational Biology | Brown | September 2022 - Current
+
+B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Publications
 
 
