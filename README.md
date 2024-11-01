@@ -19,15 +19,21 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Conference Proceedings
 
 # Fellowships & Awards
-## Mae Williamson Simmons Diversity Fellowship (09/01/2022 - 05/25/2025)
-Brown, $10000
+## Mae Williamson Simmons Diversity Fellowship, Brown
+09/01/2022 - 05/25/2025
+
+Total Amount: $10000
 
 # Professional Development
-## Reflective Teaching Seminar/Sheridan Teaching Seminar 
+## Reflective Teaching Seminar 
 Certificate Obtained 12/29/2022
 
-## Writing Center, Brown University (09/28/2022 - 08/02/2023)
+## Writing Center, Brown University
+09/28/2022 - 08/02/2023
+
 Aided 1-3 students per week in various writing tasks including generating ideas, outlining, and revising for clarity.
 
-## Teaching Assistant (Fall 2023)
+## Teaching Assistant, Brown University
+09/06/2023 - 12/12/2023
+
 BIOL 1575: Evaluation of Health Information Systems
