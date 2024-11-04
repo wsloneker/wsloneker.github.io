@@ -37,3 +37,5 @@ Aided 1-3 students per week in various writing tasks including generating ideas,
 09/06/2023 - 12/12/2023
 
 BIOL 1575: Evaluation of Health Information Systems
+
+Helped review and grade student assignments
