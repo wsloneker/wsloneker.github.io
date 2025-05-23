@@ -16,6 +16,8 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Publications
 [BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks](https://arxiv.org/abs/2412.11964)
 
+Will appear in the Special Issue of Journal of Statistical Theory and Applications.
+
 # Conference Proceedings
 
 # Fellowships & Awards
