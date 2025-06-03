@@ -14,9 +14,7 @@ Ph.D., Computational Biology | Brown | September 2022 - Current
 
 B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Publications
-[BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks](https://arxiv.org/abs/2412.11964)
-
-Will appear in the Special Issue of Journal of Statistical Theory and Applications.
+[BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks](https://doi.org/10.1007/s44199-025-00118-x)
 
 # Conference Proceedings
 
