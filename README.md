@@ -25,6 +25,9 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 Total Amount: $10000
 
 # Professional Development
+## Computational Genomics Summer Institute
+Attended the first short program of the 2025 Summer Institute
+
 ## Reflective Teaching Seminar 
 Certificate Obtained 12/29/2022
 
