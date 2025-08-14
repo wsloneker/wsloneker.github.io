@@ -16,8 +16,6 @@ B. S., Information & Data Science | Caltech | September 2017 - June 2021
 # Publications
 [BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks](https://doi.org/10.1007/s44199-025-00118-x)
 
-# Conference Proceedings
-
 # Fellowships & Awards
 ## Mae Williamson Simmons Diversity Fellowship, Brown
 09/01/2022 - 05/25/2025
