@@ -1,5 +1,5 @@
 # About Me
-Hi! I am a PhD candidate in Brown University's [Center for Computational Biology](https://ccmb.brown.edu/people/whitney-sloneker), investigating explainability methods for Graph Neural Networks with a particular focus on biology applications.
+Hi! I am a PhD candidate in Brown University's [Center for Computational Biology](https://ccmb.brown.edu/people/whitney-sloneker), developing methods to better understand networkx with a particular focus on biology applications including for IISAGE (Integration Initiative: Sex, Aging, Genomics, & Evolution).
 
 I am advised by Doctors [Ritambhara Singh](https://ritambharasingh.com/) and [Lorin Crawford](https://lorincrawford.com/).
 
