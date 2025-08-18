@@ -1,42 +1,11 @@
 # About Me
-Hi! I am a PhD candidate in Brown University's [Center for Computational Biology](https://ccmb.brown.edu/people/whitney-sloneker), developing methods to better understand networkx with a particular focus on biology applications including for IISAGE (Integration Initiative: Sex, Aging, Genomics, & Evolution).
+Hi! I am a PhD candidate in Brown University's [Center for Computational Biology](https://ccmb.brown.edu/people/whitney-sloneker), developing methods to better understand networks with a particular focus on biology applications particulary for the [Integration Initiative: Sex, Aging, Genomics, & Evolution (IISAGE)](https://www.iisage.org/). I am advised by Doctors [Ritambhara Singh](https://ritambharasingh.com/) and [Lorin Crawford](https://lorincrawford.com/).
 
-I am advised by Doctors [Ritambhara Singh](https://ritambharasingh.com/) and [Lorin Crawford](https://lorincrawford.com/).
+My graduate studies at Brown were preceded by obtaining a Bachelor's of Science from Caltech. During my undergraduate experiance, I researched the effect of THE1 on Arabidopsis growth at the [Meyerowitz Lab](https://plantlab.caltech.edu/), as well as barcoding methods to maximize the number of cells analyzed through microscopy at the [Van Valen Lab](https://www.vanvalen.caltech.edu/).
 
 Email me at <whitney_sloneker@brown.edu>!
 
 [CV](https://wsloneker.github.io/CV.pdf), [LinkedIn](www.linkedin.com/in/whitney-sloneker-62216b165), [GitHub](https://github.com/wsloneker)
 
 # Research Interests
-Computational Biology, Explainable Machine Learning
-# Education
-Ph.D., Computational Biology | Brown | September 2022 - Current
-
-B. S., Information & Data Science | Caltech | September 2017 - June 2021
-# Publications
-[BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks](https://doi.org/10.1007/s44199-025-00118-x)
-
-# Fellowships & Awards
-## Mae Williamson Simmons Diversity Fellowship, Brown
-09/01/2022 - 05/25/2025
-
-Total Amount: $10000
-
-# Professional Development
-## Computational Genomics Summer Institute
-Attended the first short program of the 2025 Summer Institute
-
-## Reflective Teaching Seminar 
-Certificate Obtained 12/29/2022
-
-## Writing Center, Brown University
-09/28/2022 - 08/02/2023
-
-Aided 1-3 students per week in various writing tasks including generating ideas, outlining, and revising for clarity.
-
-## Teaching Assistant, Brown University
-09/06/2023 - 12/12/2023
-
-BIOL 1575: Evaluation of Health Information Systems
-
-Helped review and grade student assignments
+Computational Biology, Explainable Machine Learning, Statistics, Network Analysis
